@@ -4,7 +4,6 @@
 - :open_book: Gerente na ImunePet
 - :mortar_board: Estudando Desenvolvimento Full Stack na CubosAcademy
 - :clapper: Pai de pet em tempo integral e Gamer nas horas vagas
-- :video_game: Jogo Dota2 | Cs2
 
 ### Redes Sociais
 
