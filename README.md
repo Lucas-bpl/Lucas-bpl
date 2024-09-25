@@ -15,6 +15,8 @@
 ![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucas-bpl&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ### Bibliotecas e afins
 
