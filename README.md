@@ -3,7 +3,7 @@
 - :computer: Administrador +10XP
 - :open_book: Gerente na ImunePet
 - :mortar_board: Estudando Desenvolvimento Full Stack na CubosAcademy // Análise e Desenvolvimento de Sistema na UniFaVip
-- :clapper: Pai de pet em tempo integral e Gamer nas horas vagas
+
 
 ### Redes Sociais
 
